@@ -1,7 +1,4 @@
-# ASCII Art | Palagdan | [2023]
-
-## Description
-https://courses.fit.cvut.cz/BI-OOP/projects/ASCII-art.html
+# ASCII Art 
 
 ## Command-line Options
 The program supports the following command-line options:
